@@ -1,0 +1,7 @@
+[submodule "chocblog/themes/blist"]
+	path = chocblog/themes/blist
+	url = https://github.com/apvarun/blist-hugo-theme.git
+[submodule "chocblog/public"]
+	path = chocblog/public
+	url = git@github.com:RayJW/chocblog.github.io.git
+	branch = main
