@@ -1,4 +1,4 @@
-baseURL = "https://rayjw.github.io/chocblog/"
+baseURL = "https://rayjw.github.io/chocblog.github.io/"
 languageCode = "en-us"
 theme = "blist"
 title = "Chocblog"
